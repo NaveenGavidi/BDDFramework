@@ -1,0 +1,18 @@
+13:10:42.861 [main] INFO  stepDefinations.cartcheckoutDefination - product added to cart
+13:32:10.609 [main] INFO  stepDefinations.cartcheckoutDefination - product added to cart
+14:31:53.967 [main] INFO  stepDefinations.cartcheckoutDefination - product added to cart
+14:31:57.447 [main] INFO  stepDefinations.cartcheckoutDefination - Navigated to cart
+14:32:03.558 [main] INFO  stepDefinations.cartcheckoutDefination - successfully navigated to the checkout page
+14:35:27.652 [main] INFO  stepDefinations.cartcheckoutDefination - product added to cart
+14:35:31.042 [main] INFO  stepDefinations.cartcheckoutDefination - Navigated to cart
+14:35:36.514 [main] INFO  stepDefinations.cartcheckoutDefination - successfully navigated to the checkout page
+14:47:15.724 [main] INFO  stepDefinations.cartcheckoutDefination - product added to cart
+14:47:19.224 [main] INFO  stepDefinations.cartcheckoutDefination - Navigated to cart
+14:47:24.733 [main] INFO  stepDefinations.cartcheckoutDefination - successfully navigated to the checkout page
+14:52:17.123 [main] INFO  stepDefinations.cartcheckoutDefination - product added to cart
+14:52:20.480 [main] INFO  stepDefinations.cartcheckoutDefination - Navigated to cart
+14:52:26.168 [main] INFO  stepDefinations.cartcheckoutDefination - successfully navigated to the checkout page
+15:25:33.324 [main] INFO  stepDefinations.cartcheckoutDefination - product added to cart
+16:02:48.282 [main] INFO  stepDefinations.cartcheckoutDefination - product added to cart
+16:02:51.696 [main] INFO  stepDefinations.cartcheckoutDefination - Navigated to cart
+16:02:57.804 [main] INFO  stepDefinations.cartcheckoutDefination - successfully navigated to the checkout page

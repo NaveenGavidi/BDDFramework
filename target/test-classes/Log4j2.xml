@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+
+<Appenders>
+<RollingFile name="cartcheckout" fileName=".\\output\\cartcheckout.log" filePattern=".\\output\cartcheckout-%d{yyyy-MM-dd-HH-mm-ss-SSS}.log">
+<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+<SizeBasedTriggeringPolicy size="50kb" />
+</RollingFile>
+
+<RollingFile name="contactpage" fileName=".\\output\\contactpage.log" filePattern=".\\output\contactpage-%d{yyyy-MM-dd-HH-mm-ss-SSS}.log">
+<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+<SizeBasedTriggeringPolicy size="50kb" />
+</RollingFile>
+
+<RollingFile name="homepage" fileName=".\\output\\homepage.log" filePattern=".\\output\homepage-%d{yyyy-MM-dd-HH-mm-ss-SSS}.log">
+<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+<SizeBasedTriggeringPolicy size="50kb" />
+</RollingFile>
+
+<RollingFile name="category" fileName=".\\output\\category.log" filePattern=".\\output\category-%d{yyyy-MM-dd-HH-mm-ss-SSS}.log">
+<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+<SizeBasedTriggeringPolicy size="50kb" />
+</RollingFile>
+
+
+<RollingFile name="loginpage" fileName=".\\output\\loginpage.log" filePattern=".\\output\loginpage-%d{yyyy-MM-dd-HH-mm-ss-SSS}.log">
+<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+<SizeBasedTriggeringPolicy size="50kb" />
+</RollingFile>
+
+<RollingFile name="newsletter" fileName=".\\output\\newsletter.log" filePattern=".\\output\newsletter-%d{yyyy-MM-dd-HH-mm-ss-SSS}.log">
+<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+<SizeBasedTriggeringPolicy size="50kb" />
+</RollingFile>
+
+<RollingFile name="search" fileName=".\\output\\search.log" filePattern=".\\output\search-%d{yyyy-MM-dd-HH-mm-ss-SSS}.log">
+<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+<SizeBasedTriggeringPolicy size="50kb" />
+</RollingFile>
+
+
+
+ <RollingFile name="signinpage" fileName=".\\output\\signinpage.log" filePattern=".\\output\signinpage-%d{yyyy-MM-dd-HH-mm-ss-SSS}.log">
+<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+<SizeBasedTriggeringPolicy size="50kb" />
+</RollingFile> 
+
+<RollingFile name="wishlist" fileName=".\\output\\wishlist.log" filePattern=".\\output\wishlist-%d{yyyy-MM-dd-HH-mm-ss-SSS}.log">
+<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+<SizeBasedTriggeringPolicy size="50kb" />
+</RollingFile> 
+
+<Console name="Console" target="SYSTEM_OUT">
+<PatternLayout pattern="%d{yyyy-MM-dd-HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+</Console>
+
+</Appenders>
+
+
+<Loggers>
+
+<Logger name="stepDefinations.cartcheckoutDefination" level="trace" additivity="false">
+<AppenderRef ref="cartcheckout"/>
+</Logger>
+
+<Logger name="stepDefinations.contactpageDefination" level="trace" additivity="false">
+<AppenderRef ref="contactpage"/>
+</Logger>
+
+<Logger name="stepDefinations.HomepageDefination" level="trace" additivity="false">
+<AppenderRef ref="homepage"/>
+</Logger>
+
+<Logger name="stepDefinations.hoveractionDefination" level="trace" additivity="false">
+<AppenderRef ref="category"/>
+</Logger>
+
+<Logger name="stepDefinations.loginpageDefination" level="trace" additivity="false">
+<AppenderRef ref="loginpage"/>
+</Logger>
+
+<Logger name="stepDefinations.newsletterDefination" level="trace" additivity="false">
+<AppenderRef ref="newsletter"/>
+</Logger>
+
+<Logger name="stepDefinations.searchactionDefination" level="trace" additivity="false">
+<AppenderRef ref="search"/>
+</Logger>
+
+<Logger name="stepDefinations.signinpageDefination" level="trace" additivity="false">
+<AppenderRef ref="signinpage"/>
+</Logger>
+
+<Logger name="stepDefinations.wishlistDefination" level="trace" additivity="false">
+<AppenderRef ref="wishlist"/>
+</Logger>
+
+
+<Root level="trace">
+<AppenderRef ref="Console"/>
+</Root>
+</Loggers>
+</Configuration>

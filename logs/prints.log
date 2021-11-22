@@ -1,0 +1,17 @@
+21:41:08.370 [main] INFO  utilities.BaseTest - Gifts Online - Send Unique, Unusual Gifts in India, Buy Gifts– Bigsmall.in
+21:41:08.573 [main] INFO  utilities.BaseTest - Gifts Online - Send Unique, Unusual Gifts in India, Buy Gifts– Bigsmall.in
+21:41:13.609 [main] INFO  utilities.BaseTest - Gifts Online - Send Unique, Unusual Gifts in India, Buy Gifts– Bigsmall.in
+21:41:13.747 [main] INFO  utilities.BaseTest - Secret Santa Gifts - Secret Santa Gift Ideas– Bigsmall.in
+21:41:14.005 [main] INFO  utilities.BaseTest - Christmas Gifts Online (2021) - Unique Christmas Gift, Secret Santa Gifts– Bigsmall.in
+21:41:14.151 [main] INFO  utilities.BaseTest - New Unique Gift Online [2021] - Buy/Send Latest, Quirky Unusual Gifts– Bigsmall.in
+21:41:14.340 [main] INFO  utilities.BaseTest - Personalized Gifts - Buy Unique Customized Gift Online in India [2021]– Bigsmall.in
+14:29:42.400 [main] INFO  Testcases.Homepage_TC - Homepage loaded successfully
+08:27:07.577 [main] INFO  utilities.BaseTest - Searching for the product
+08:43:33.718 [main] INFO  stepDefinations.searchactionDefination - Searching for the product
+08:48:02.806 [main] INFO  utilities.BaseTest - product added to cart
+08:55:25.015 [main] INFO  utilities.BaseTest - contact page loaded successfully
+08:56:21.638 [main] INFO  utilities.BaseTest - contact page loaded successfully
+09:34:12.781 [main] INFO  utilities.BaseTest - Hover performed successfully
+09:44:03.904 [main] INFO  utilities.BaseTest - Hover performed successfully
+10:05:39.969 [main] INFO  stepDefinations.newsletterDefinition - Email entered successfully
+10:05:40.360 [main] INFO  stepDefinations.newsletterDefinition - redirected to subscribe page

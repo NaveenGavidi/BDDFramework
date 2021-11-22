@@ -1,0 +1,24 @@
+21:38:49.216 [main] INFO  utilities.BaseTest - navigated to Add giftcard section
+21:38:51.628 [main] INFO  utilities.BaseTest - Gift card added successfully
+21:39:00.572 [main] INFO  utilities.BaseTest - All tab clicked and page loaded
+21:39:04.187 [main] INFO  utilities.BaseTest - navigated to 2nd page
+21:39:04.454 [main] INFO  utilities.BaseTest - Product is successfully displayed
+21:39:14.003 [main] INFO  utilities.BaseTest - product added to cart
+21:39:17.410 [main] INFO  utilities.BaseTest - Navigated to cart
+21:39:22.936 [main] INFO  utilities.BaseTest - successfully navigated to the checkout page
+21:39:30.944 [main] INFO  utilities.BaseTest - contact page loaded successfully
+21:39:53.990 [main] INFO  utilities.BaseTest - Homepage loaded successfully
+21:40:00.285 [main] INFO  utilities.BaseTest - Hover performed successfully
+21:40:10.170 [main] INFO  utilities.BaseTest - desired page loaded successfully
+21:40:23.593 [main] INFO  utilities.BaseTest - Login Page loaded successfully
+21:40:27.782 [main] INFO  utilities.BaseTest - Email entered successfully
+21:40:27.886 [main] INFO  utilities.BaseTest - password entered successfully
+21:40:33.598 [main] INFO  utilities.BaseTest - user navigated to login verification
+21:40:40.116 [main] INFO  utilities.BaseTest - Searching for the product
+21:40:43.415 [main] INFO  utilities.BaseTest - Searched product displayed successfully
+21:40:55.376 [main] INFO  utilities.BaseTest - Product added to wishlist
+21:41:01.097 [main] INFO  utilities.BaseTest - Wishlist page loaded successfully
+21:41:01.143 [main] INFO  utilities.BaseTest - Wishlist page loaded and product visibility in wishlist verified
+21:41:07.632 [main] INFO  utilities.BaseTest - Number of links present in the page are99
+21:41:07.940 [main] INFO  utilities.BaseTest - Gifts Online - Send Unique, Unusual Gifts in India, Buy Gifts– Bigsmall.in
+21:41:08.129 [main] INFO  utilities.BaseTest - Gifts Online - Send Unique, Unusual Gifts in India, Buy Gifts– Bigsmall.in
